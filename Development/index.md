@@ -364,7 +364,7 @@ Windowsでは[msysgit](https://code.google.com/p/msysgit/)を導入します。
 念の為、`ls -la`はディレクトリーにある全てのファイルを表示するコマンドである事を書き添えておきます。
 
     > git init
-    > ls
+    > ls -la
 
 gitにはこの様に"git gitコマンド名"を指示して使います。initは現在のディレクトリーに.gitを作りgitで管理する準備を整える為のコマンドです。
 
