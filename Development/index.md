@@ -55,7 +55,7 @@
 [「スパイラル」](http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB)、
 [「反復」](http://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BE%A9%E5%9E%8B%E9%96%8B%E7%99%BA)、
 [「アジャイル」](http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)、
-[「スクラム」](http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA))
+[「スクラム」](http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)、
 [「テスト駆動」](http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA)
 など何れの開発工程を考える上でも基礎的な開発工程の知識は必要不可欠です。
 
