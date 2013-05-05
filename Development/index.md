@@ -206,7 +206,7 @@ SlideShareでは特定のテーマのイケてる他人の資料を検索して�
     - [Redmine](http://redmine.jp/)
         - [ChiliProject](https://www.chiliproject.org/)
 - 継続的インテグレーション
-    - 
+    - [Jenkins](http://jenkins-ci.org/)
 
 簡単なチケット管理システムで十分であればGitHubのIssuesで済ませるのも良い方法ですが、tracやRedmineを本格的に運用すると様々な開発工程やバグの管理を強力にアシストしてくれます。
 
