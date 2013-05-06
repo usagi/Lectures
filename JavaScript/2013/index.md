@@ -404,5 +404,5 @@ ES5あるいはES3レベルに準拠した現実に今すぐ使える様々な�
 Copyright &copy; 2013 Usagi Ito.
 License: [GNU FDL-1.3](http://www.gnu.org/licenses/fdl-1.3.html)
 
-[lec/dev]: ../../index.md "実践的フリーオープンソースソフトウェア開発概論" 
+[lec/dev]: ../../Development/index.md "実践的フリーオープンソースソフトウェア開発概論" 
 
