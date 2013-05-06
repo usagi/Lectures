@@ -263,6 +263,9 @@ ES5レベル現在でも豊富なライブラリー・フレームワーク・�
 - [Pot.js](http://polygonplanet.github.io/Pot.js/)
 - [Meteor](http://meteor.com)
 - [express](http://expressjs.com/)
+- [Google Closure Tools](https://developers.google.com/closure/)
+    - [Google Closure Compiler](https://developers.google.com/closure/compiler/?hl=ja)
+    - [Google Closure Compier(web)](http://closure-compiler.appspot.com/)
 
 ES5あるいはES3レベルに準拠した現実に今すぐ使える様々なライブラリーが、このほかにも大小・多数・大量に現存します。
 有効に活用すると良いでしょう。
