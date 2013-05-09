@@ -123,6 +123,7 @@ OSから用意するも良し、仮想環境を構築するも良し。
 一般にJavaScriptと呼ばれるプログラミング言語の歴史について簡単に現行規格に至るまでを概説します。
 
 - [JavaScript History](http://www.slideshare.net/badatmath/js-shistory)
+- [Firefoxの歴史](http://foxkeh.jp/blog/2/)
 
 ### 2.2. 言語の特徴
 
